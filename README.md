@@ -1,6 +1,5 @@
 
 <div style="text-align: center;">
-
 <img src="https://avatars.githubusercontent.com/u/9008942?v=4" style="width: 300px; border-radius: 50%;">
 
 [![badges](https://badges.pufler.dev/visits/magic5656/badge-it)](https://badges.pufler.dev)
