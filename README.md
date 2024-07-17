@@ -1,5 +1,5 @@
 
-<div style="text-align: center;">
+<div align="center">
 
 [![Profile](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/9008942?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)](https://github.com/magic5656)
 
