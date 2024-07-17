@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**magic5644/magic5644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="text-align: center;"><img src="https://avatars.githubusercontent.com/u/9008942?v=4" style="width: 300px; border-radius: 50%;">
 
-Here are some ideas to get you started:
+[![badges](https://badges.pufler.dev/visits/magic5656/badge-it)](https://badges.pufler.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## Hi there 👋, I'm Gildas
+
+### A passionate software architect from France
+
+I'm currently working on [**CodeLineCounter**](https://github.com/magic5644/codelinecounter) - a project on the [**Magic5644**](https://github.com/magic5644/magic5644) repository.
+
+### Languages Skills
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,cpp,java,go,js,angular,vue,flutter)](https://skillicons.dev)
+
+### Cloud provider skills
+
+[![My Skills](https://skillicons.dev/icons?i=azure,gcp)](https://skillicons.dev)
+
+### Other skills
+
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,github)](https://skillicons.dev)
