@@ -2,8 +2,16 @@
 <div style="text-align: center;">
 <img src="https://avatars.githubusercontent.com/u/9008942?v=4" style="width: 300px; border-radius: 50%;">
 
+[![Profile](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/9008942?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)](https://github.com/magic5656)
+
 [![badges](https://badges.pufler.dev/visits/magic5656/badge-it)](https://badges.pufler.dev)
 
+</div>
+
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=0176c0&center=true&vCenter=true&width=435&lines=Hey..+I'm+Gildas;This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
 </div>
 
 ## Hi there 👋, I'm Gildas
