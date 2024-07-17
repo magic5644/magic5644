@@ -27,8 +27,14 @@ I'm living in **Nantes**, France.
 
 I'm currently working on [**CodeLineCounter**](https://github.com/magic5644/codelinecounter) - a project on the [**Magic5644**](https://github.com/magic5644/magic5644) repository.
 
+### GitHub Stats
+
 <div align="center">
-    <img src="https://raw.githubusercontent.com/magic5644/magic5644/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=magic5644&theme=default" alt="Magic56's GitHub Stats"/>
+</div>
+
+<div align="center"
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default" alt="Magic56's GitHub Stats"/>
 </div>
 
 ### Languages Skills
