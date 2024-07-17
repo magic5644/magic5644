@@ -15,9 +15,21 @@
 
 ## Hi there 👋, I'm Gildas
 
-### A passionate software architect from France
+### A passionate software architec
+
+I am currently working at a software publisher.I have a passion for information and communication technologies.
+
+I am also a big fan of video games.
+
+I'm living in **Nantes**, France.
+
+### Projects
 
 I'm currently working on [**CodeLineCounter**](https://github.com/magic5644/codelinecounter) - a project on the [**Magic5644**](https://github.com/magic5644/magic5644) repository.
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/magic5644/magic5644/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
 ### Languages Skills
 
