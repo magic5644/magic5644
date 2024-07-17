@@ -34,7 +34,7 @@ I'm currently working on [**CodeLineCounter**](https://github.com/magic5644/code
 </div>
 
 <div align="center"
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default" alt="Magic56's GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=magic5644&theme=default" alt="Magic56's GitHub Stats"/>
 </div>
 
 ### Languages Skills
