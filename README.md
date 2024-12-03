@@ -15,7 +15,7 @@
 
 ## Hi there 👋, I'm Gildas
 
-### A passionate software architec
+### A passionate software architect
 
 I am currently working at a software publisher.I have a passion for information and communication technologies.
 
