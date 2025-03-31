@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Profile](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/9008942?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)](https://github.com/magic5656)
+[![Profile](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/9008942?v=4&h=300&w=300&fit=cover&mask=circle&maxage=1d)](https://github.com/magic5656)
 
 [![badges](https://badges.pufler.dev/visits/magic5656/badge-it)](https://badges.pufler.dev)
 
