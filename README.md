@@ -25,7 +25,9 @@ I'm living in **Nantes**, France.
 
 ### Projects
 
-I'm currently working on [**CodeLineCounter**](https://github.com/magic5644/codelinecounter) - a project on the [**Magic5644**](https://github.com/magic5644/magic5644) repository.
+I'm currently working on [**vscode-csharp-dependency-graph**](https://github.com/magic5644/vscode-csharp-dependency-graph) - a project on the [**Magic5644**](https://github.com/magic5644/magic5644) repository.
+This project is a **Visual Studio Code extension** that generates a **dependency graph for C# projects**. It helps developers visualize the relationships between different components in their codebase, making it easier to understand and maintain complex projects.
+**Don't hesitate to check it out!**
 
 ### GitHub Stats
 
